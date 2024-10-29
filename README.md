@@ -1,15 +1,15 @@
 # Lista De La Compra
 
-This is a simple shopping list application built with Kotlin, Java, and Jetpack Compose. The app allows users to add, view, and delete products from their shopping list.
+Esta es una aplicación simple de lista de compras construida con Kotlin, Java y Jetpack Compose. La aplicación permite a los usuarios agregar, ver y eliminar productos de su lista de compras.
 
-## Features
+## Características
 
-- Add products with name, quantity, and price
-- View the list of products
-- Delete products from the list
-- Calculate the total price of all products
+- Agregar productos con nombre, cantidad y precio
+- Ver la lista de productos
+- Eliminar productos de la lista
+- Calcular el precio total de todos los productos
 
-## Technologies Used
+## Tecnologías Utilizadas
 
 - Kotlin
 - Java
@@ -18,32 +18,33 @@ This is a simple shopping list application built with Kotlin, Java, and Jetpack 
 - ViewModel
 - LiveData
 
-## Setup Instructions
+## Instrucciones de Configuración
 
-1. **Clone the repository:**
+1. **Clonar el repositorio:**
     ```sh
-    git clone https://github.com/yourusername/lista-de-la-compra.git
+    git clone https: https://github.com/jacobgalactico/ListaDeLaCompra.git
     cd lista-de-la-compra
     ```
 
-2. **Open the project in Android Studio:**
-    - Open Android Studio.
-    - Select `File > Open...` and navigate to the project directory.
+2. **Abrir el proyecto en Android Studio:**
+    - Abre Android Studio.
+    - Selecciona `File > Open...` y navega hasta el directorio del proyecto.
 
-3. **Build the project:**
-    - Click on the `Build` menu and select `Make Project`.
+3. **Construir el proyecto:**
+    - Haz clic en el menú `Build` y selecciona `Make Project`.
 
-4. **Run the app:**
-    - Connect an Android device or start an emulator.
-    - Click on the `Run` button or select `Run > Run 'app'`.
+4. **Ejecutar la aplicación:**
+    - Conecta un dispositivo Android o inicia un emulador.
+    - Haz clic en el botón `Run` o selecciona `Run > Run 'app'`.
 
-## Project Structure
+## Estructura del Proyecto
 
-- `src/main/java/com/example/listadelacompra/` - Main source code directory.
-  - `data/` - Contains the Room database entities and DAO.
-  - `repository/` - Contains the repository classes.
-  - `ui/` - Contains the UI components built with Jetpack Compose.
-  - `viewmodel/` - Contains the ViewModel classes.
+- `src/main/java/com/example/listadelacompra/` - Directorio principal del código fuente.
+  - `data/` - Contiene las entidades y DAO de la base de datos Room.
+  - `repository/` - Contiene las clases del repositorio.
+  - `ui/` - Contiene los componentes de la interfaz de usuario construidos con Jetpack Compose.
+  - `viewmodel/` - Contiene las clases ViewModel.
 
 ## Link
+
 https://github.com/jacobgalactico/ListaDeLaCompra.git
